@@ -71,7 +71,7 @@ Fork về Github của bạn, chỉnh sửa hoặc thêm và thực hiện Pull 
 - [x] CHD1A
 - [x] CHD1B (cám ơn @duongoku)
 - [x] CHD1C (cám ơn @duongoku)
-- [x] CHD1D (cám ơn @duongoku)
+- [ ] CHD1D
 - [ ] CHD1E
 - [ ] CHD1F
 - [ ] CHD1G
