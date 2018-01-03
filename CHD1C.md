@@ -6,10 +6,10 @@ Những đồng tiền Zimbab có đặc điểm: chúng có rất nhiều mện
 
 ## Input
 
-- Dòng đầu tiên ghi `T` (`T` ≤ 39) là số lượng test.
+- Dòng đầu tiên ghi `T` (`T ≤ 39`) là số lượng test.
 - Sau đó là các test, mỗi bộ test có dạng: 
-- Dòng đầu tiên ghi `N` ((`N` ≤ 10^5)) là số lượng mệnh giá tiền Thanh có.
-- Dòng tiếp theo ghi `N` số, mỗi số là 1 mệnh giá tiền Thanh có ((1 ≤ `A` ≤ 10^9)).
+- Dòng đầu tiên ghi `N` (`N ≤ 10^5`) là số lượng mệnh giá tiền Thanh có.
+- Dòng tiếp theo ghi `N` số, mỗi số là 1 mệnh giá tiền Thanh có (`1 ≤ A ≤ 10^9`).
 
 ## Output
 
