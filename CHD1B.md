@@ -4,7 +4,7 @@ Nếu chỉ là niềm đam mê với những bài toán, T-s-x đã không tr�
 
 Ngày ấy, một ngày khi bầu trời đổ lửa, Thanh và Minh 11 dắt tay nhau, nhảy chân sáo ra vườn hoa tưởng tượng của Tổng Hợp - nơi tụ tập rất nhiều nữ sinh của trường.Nhìn quanh, không có trò gì chơi, Thanh đành lấy bao tải sỏi - vốn đã yên vị ở góc vườn - và rủ Minh chơi một vài trò vô não. Tất nhiên, vô não thì phải hữu tình - ai thua phải chia sẻ cho người còn lại một bí mật lớn của riêng mình...
 
-Luật chơi như sau 
+Luật chơi như sau: 
 
 Cho hai đống sỏi, đống thứ nhất có `A` viên, đống thứ hai có B viên (`0 ≤ A, B ≤ 10^9`, `A + B > 0`). Thanh và Minh 11 lần lượt thực hiện nước đi cho đến khi chỉ còn một viên sỏi. Thanh vòi  đi trước. Đến lượt của mình, người chơi có thể thực hiện một trong hai nước đi sau:
 
