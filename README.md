@@ -69,7 +69,7 @@ Fork về Github của bạn, chỉnh sửa hoặc thêm và thực hiện Pull 
 ## Danh sách các bài cần format
 
 - [x] CHD1A
-- [ ] CHD1B
+- [x] CHD1B (cám ơn @duongoku)
 - [ ] CHD1C
 - [ ] CHD1D
 - [ ] CHD1E
