@@ -69,8 +69,8 @@ Fork về Github của bạn, chỉnh sửa hoặc thêm và thực hiện Pull 
 ## Danh sách các bài cần format
 
 - [x] CHD1A
-- [ ] CHD1B
-- [ ] CHD1C
+- [x] CHD1B (cám ơn @duongoku)
+- [x] CHD1C (cám ơn @duongoku)
 - [ ] CHD1D
 - [ ] CHD1E
 - [ ] CHD1F
@@ -110,7 +110,7 @@ Fork về Github của bạn, chỉnh sửa hoặc thêm và thực hiện Pull 
 - [ ] CHD4E
 - [ ] CHD4F
 - [ ] CHD4G
-- [x] CHD4H
-- [x] CHD4I
-- [x] CHD4J
-- [x] CHD4K
+- [x] CHD4H (cám ơn @huynd2001)
+- [x] CHD4I (cám ơn @huynd2001)
+- [x] CHD4J (cám ơn @huynd2001)
+- [x] CHD4K (cám ơn @huynd2001)
