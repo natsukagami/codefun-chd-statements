@@ -25,7 +25,9 @@ Với mỗi test, in ra xác suất Thanh bị đá, chính xác đến 6 chữ 
 
 ### Input
 ```
-1 1 1 1
+1
+1 1
+1
 ```
 
 ### Output
