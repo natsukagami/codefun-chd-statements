@@ -8,14 +8,14 @@ Moerulestheworld sau nhiều lần cố gắng cuối cùng cũng lấy trộm �
 
 Moerulestheworld bất lực nên nhờ bạn giải mã hộ vậy! Brainf*** là ngôn nhữ lập trình gồm 30000 ô nhớ, mỗi ô có giá trị tối đa là 256, gồm 8 câu lệnh.
 
- - \>: Dịch con trỏ sang phải.
- - <: Dịch con trỏ sang trái.
- - +: Tăng giá trị ô nhớ tại con trỏ lên 1.
- - -: Giảm giá trị ô nhớ tại con trỏ đi 1.
- - [: Nếu giá trị của ô nhớ tại con trỏ bằng 0 thì nhảy đến ngoặc đóng tương ứng và bỏ qua đoạn code ở giữa.
- - ]: Nếu giá trị của ô nhớ tại con trỏ khác 0 thì nhảy đến ngoặc mở tương ứng và bỏ qua đoạn code ở giữa.
- - .: In ra giá trị char của ô nhớ tại con trỏ
- - ,: Đọc vào giá trị, nhưng ta không cần quan tâm vì tờ hint đảm bảo không có dấu “,”.
+ - `>`: Dịch con trỏ sang phải.
+ - `<`: Dịch con trỏ sang trái.
+ - `+`: Tăng giá trị ô nhớ tại con trỏ lên 1.
+ - `-`: Giảm giá trị ô nhớ tại con trỏ đi 1.
+ - `[`: Nếu giá trị của ô nhớ tại con trỏ bằng 0 thì nhảy đến ngoặc đóng tương ứng và bỏ qua đoạn code ở giữa.
+ - `]`: Nếu giá trị của ô nhớ tại con trỏ khác 0 thì nhảy đến ngoặc mở tương ứng và bỏ qua đoạn code ở giữa.
+ - `.`: In ra giá trị char của ô nhớ tại con trỏ
+ - `,`: Đọc vào giá trị, nhưng ta không cần quan tâm vì tờ hint đảm bảo không có dấu `,`.
 Ngoài ra, mọi ký tự khác sẽ bị bỏ qua.
 
 ## Input
@@ -24,7 +24,7 @@ Bài có nhiều test.
 
 Dòng đầu của mỗi test là một đoạn code Brainf\*\*\*.
 
-Cuối mỗi test là 1 dấu #. Đảm bảo dấu # chỉ xuất hiện ở cuối chương trình.
+Cuối mỗi test là 1 dấu `#`. Đảm bảo dấu `#` chỉ xuất hiện ở cuối chương trình.
 
 ## Output
 

@@ -1,4 +1,4 @@
-Hôm nay, Quốc Minh được thầy Phương giao cho một bài rất khó. Anh nghĩ ra được nhiều sol nhưng với độ phức tạp khác nhau. Máy chấm là máy thầy Phương, có thể xử lý n phép tính trên giây. Hỏi sol của Quốc Minh có AC hay không? Các sol của Quốc Minh có thể có độ phức tạp là: `On, Onlogn, On^(3/2), On^2, On^2logn, On^3, On^4,O2^n, On!`
+Hôm nay, Quốc Minh được thầy Phương giao cho một bài rất khó. Anh nghĩ ra được nhiều sol nhưng với độ phức tạp khác nhau. Máy chấm là máy thầy Phương, có thể xử lý n phép tính trên giây. Hỏi sol của Quốc Minh có AC hay không? Các sol của Quốc Minh có thể có độ phức tạp là: `On`, `Onlogn`, `On^(3/2)`, `On^2`, `On^2logn`, `On^3`, `On^4`,`O2^n`, `On!`
 
 ## Input
 
@@ -24,6 +24,7 @@ On^2logn
 
 ### Output
 ```
-AC TLE
+AC
+TLE
 ```
 
