@@ -3,7 +3,7 @@ An attempt to re-format codefun's `Cúp Huynh Đệ` statements to a more friend
 
 ## Quy tắc format
 
-Về cơ bản, ta sẽ dùng chính xác những gì ta có của [Github Flavored Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). 
+Về cơ bản, ta sẽ dùng chính xác những gì ta có của [Github Flavored Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 ### Về tên file trong repo
 
@@ -111,6 +111,6 @@ Fork về Github của bạn, chỉnh sửa hoặc thêm và thực hiện Pull 
 - [ ] CHD4F
 - [ ] CHD4G
 - [ ] CHD4H
-- [ ] CHD4I
-- [ ] CHD4J
-- [ ] CHD4K
+- [x] CHD4I
+- [x] CHD4J
+- [x] CHD4K
