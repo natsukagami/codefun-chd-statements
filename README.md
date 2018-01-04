@@ -110,7 +110,7 @@ Fork về Github của bạn, chỉnh sửa hoặc thêm và thực hiện Pull 
 - [ ] CHD4E
 - [ ] CHD4F
 - [ ] CHD4G
-- [ ] CHD4H
+- [x] CHD4H
 - [x] CHD4I
 - [x] CHD4J
 - [x] CHD4K
