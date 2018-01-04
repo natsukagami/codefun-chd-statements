@@ -73,14 +73,14 @@ Fork về Github của bạn, chỉnh sửa hoặc thêm và thực hiện Pull 
 - [x] CHD1C (cám ơn @duongoku)
 - [x] CHD1D (cám ơn @duongoku)
 - [x] CHD1E (cám ơn @duongoku)
-- [ ] CHD1F
-- [ ] CHD1G
-- [ ] CHD1H
-- [ ] CHD1I
-- [ ] CHD1J
-- [ ] CHD1K
-- [ ] CHD1L
-- [ ] CHD1M
+- [x] CHD1F (cám ơn @duongoku)
+- [x] CHD1G (cám ơn @duongoku)
+- [x] CHD1H (cám ơn @duongoku)
+- [x] CHD1I (cám ơn @duongoku)
+- [x] CHD1J (cám ơn @duongoku)
+- [x] CHD1K (cám ơn @duongoku)
+- [x] CHD1L (cám ơn @duongoku)
+- [x] CHD1M (cám ơn @duongoku)
 - [ ] CHD2A
 - [ ] CHD2B
 - [ ] CHD2C
