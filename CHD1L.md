@@ -6,7 +6,7 @@ Trong các chương trình soạn thảo văn bản hiện đại, một dòng c
 
 ## Input
 
-Bài có nhiều test, dòng đầu là số test, đầu mỗi đoạn văn là số `n`, các dòng tiếp là đoạn văn, cuối mỗi đoạn văn là dòng *END_OF_TEST*, đảm bảo độ dài các từ `< n/2`.
+Bài có nhiều test, dòng đầu là số test, đầu mỗi đoạn văn là số `n`, các dòng tiếp là đoạn văn, cuối mỗi đoạn văn là dòng `END_OF_TEST`, đảm bảo độ dài các từ `< n/2`.
 
 ## Output
 

@@ -12,7 +12,7 @@ Dòng đầu tiên nhập vào số test `Tc` (`0 < Tc ≤ 100`). Sau đó là c
 
 ## Output
 
-In ra “YES” nếu thầy Phương có thể càn quét được Thanh, sau đó in ra số lượng và vị trí tất cả những người bị thấy Phương càn quét từ vị trí ban đầu cho đến khi càn quét được Thanh từ bé đến lớn. In ra “NO” nếu thấy Phương không thể càn quét được Thanh.
+In ra `YES` nếu thầy Phương có thể càn quét được Thanh, sau đó in ra số lượng và vị trí tất cả những người bị thấy Phương càn quét từ vị trí ban đầu cho đến khi càn quét được Thanh từ bé đến lớn. In ra `NO` nếu thấy Phương không thể càn quét được Thanh.
 
 ## Sample
 

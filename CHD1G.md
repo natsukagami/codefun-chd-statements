@@ -17,16 +17,16 @@ Hãy xác định xem Thanh có bao nhiêu cơ hội thắng, khi đã có 4 qu�
 ## Input
 
 Bài bao gồm nhiều test. Dòng đầu tiên ghi `T` (`T ≤ 39`) là số test. Sau đó là các test. Trong mỗi test :
- - 5 dòng đầu tiên là số lá bài mà Mina có trong tay, mỗi dòng mô tả 1 lá bài dưới dạng 1 xâu ký tự “A of B” với A là số trên lá bài (Nếu giá trị của lá bài lớn hơn 10 thì Ace là Át, King là K, Queen là Q, Jack là J) và B là chất của lá bài (Spades (♠), Hearts (♥), Clubs (♣), Diamonds (♦)).
- - Kế đó là 4 dòng mô tả các lá bài của Thanh dưới dạng 1 xâu ký tự “A of B” với A là số trên lá bài (Nếu giá trị của lá bài lớn hơn 10 thì Ace là Át, King là K, Queen là Q, Jack là J) và B là chất của lá bài (Spades (♠), Hearts (♥), Clubs (♣), Diamonds (♦)).
+ - 5 dòng đầu tiên là số lá bài mà Mina có trong tay, mỗi dòng mô tả 1 lá bài dưới dạng 1 xâu ký tự `A of B` với A là số trên lá bài (Nếu giá trị của lá bài lớn hơn 10 thì Ace là Át, King là K, Queen là Q, Jack là J) và B là chất của lá bài (Spades (♠), Hearts (♥), Clubs (♣), Diamonds (♦)).
+ - Kế đó là 4 dòng mô tả các lá bài của Thanh dưới dạng 1 xâu ký tự `A of B` với A là số trên lá bài (Nếu giá trị của lá bài lớn hơn 10 thì Ace là Át, King là K, Queen là Q, Jack là J) và B là chất của lá bài (Spades (♠), Hearts (♥), Clubs (♣), Diamonds (♦)).
 
 ## Output
 
 Với mỗi test (mỗi test một dòng):
- - Nếu Thanh không có cơ hội thắng, in ra Case [test thứ mấy]: There is no chance of winning.
- - Nếu Thanh chỉ có duy nhất một cơ hội để thắng, in ra Case [test thứ mấy]: There is only 1 chance of winning.
- - Nếu Thanh có nhiều hơn 1 cơ hội thắng, in ra Case [test thứ mấy]: There are [số cơ hội thắng] chances of winning.
- - Nếu Thanh luôn thắng trong mọi trường hợp, in ra Case [test thứ mấy]: Thanh shall always win!
+ - Nếu Thanh không có cơ hội thắng, in ra `Case [test thứ mấy]: There is no chance of winning.`
+ - Nếu Thanh chỉ có duy nhất một cơ hội để thắng, in ra `Case [test thứ mấy]: There is only 1 chance of winning.`
+ - Nếu Thanh có nhiều hơn 1 cơ hội thắng, in ra `Case [test thứ mấy]: There are [số cơ hội thắng] chances of winning.`
+ - Nếu Thanh luôn thắng trong mọi trường hợp, in ra `Case [test thứ mấy]: Thanh shall always win!`
 ## Sample
 
 ### Input
