@@ -108,8 +108,8 @@ Fork về Github của bạn, chỉnh sửa hoặc thêm và thực hiện Pull 
 - [ ] CHD4C
 - [ ] CHD4D
 - [ ] CHD4E
-- [ ] CHD4F
-- [ ] CHD4G
+- [x] CHD4F (cám ơn @huynd2001)
+- [x] CHD4G (cám ơn @huynd2001)
 - [x] CHD4H (cám ơn @huynd2001)
 - [x] CHD4I (cám ơn @huynd2001)
 - [x] CHD4J (cám ơn @huynd2001)
