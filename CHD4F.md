@@ -3,7 +3,7 @@ Sau khi trả một ít tiền cho Đát-vê-đà, Thanh Hải Vương đã mư�
 Dương Sì-ke-oắc-cờ đã tiếp cận được Đét-sì-ta và quyết định khai hỏa. Mỗi quả ngư lôi có 2 thông số `A` và `B`, mỗi giây `A` và `B` thay đổi theo quy tắc:
 
 ```c++
-if (A < b) A = 2 * A, B = B - A;
+if (A < B) A = 2 * A, B = B - A;
 else B = 2 * B, A = A - B;
 ```
 

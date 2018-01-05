@@ -105,9 +105,9 @@ Fork về Github của bạn, chỉnh sửa hoặc thêm và thực hiện Pull 
 - [ ] CHD3K
 - [ ] CHD4A
 - [ ] CHD4B
-- [ ] CHD4C
-- [ ] CHD4D
-- [ ] CHD4E
+- [x] CHD4C (cám ơn @huynd2001)
+- [x] CHD4D (cám ơn @huynd2001)
+- [x] CHD4E (cám ơn @huynd2001)
 - [x] CHD4F (cám ơn @huynd2001)
 - [x] CHD4G (cám ơn @huynd2001)
 - [x] CHD4H (cám ơn @huynd2001)
