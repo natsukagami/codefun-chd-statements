@@ -81,10 +81,10 @@ Fork về Github của bạn, chỉnh sửa hoặc thêm và thực hiện Pull 
 - [x] CHD1K (cám ơn @duongoku)
 - [x] CHD1L (cám ơn @duongoku)
 - [x] CHD1M (cám ơn @duongoku)
-- [ ] CHD2A
-- [ ] CHD2B
-- [ ] CHD2C
-- [ ] CHD2D
+- [x] CHD2A (cám ơn @duongoku)
+- [x] CHD2B (cám ơn @duongoku)
+- [x] CHD2C (cám ơn @duongoku)
+- [x] CHD2D (cám ơn @duongoku)
 - [ ] CHD2E
 - [ ] CHD2F
 - [ ] CHD2G
