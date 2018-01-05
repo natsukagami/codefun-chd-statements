@@ -88,7 +88,7 @@ Fork về Github của bạn, chỉnh sửa hoặc thêm và thực hiện Pull 
 - [x] CHD2E (cám ơn @duongoku)
 - [x] CHD2F (cám ơn @duongoku)
 - [x] CHD2G (cám ơn @duongoku)
-- [ ] CHD2H
+- [x] CHD2H (cám ơn @duongoku)
 - [ ] CHD2I
 - [ ] CHD2J
 - [ ] CHD2K
