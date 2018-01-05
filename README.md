@@ -101,10 +101,10 @@ Fork về Github của bạn, chỉnh sửa hoặc thêm và thực hiện Pull 
 - [ ] CHD3G
 - [ ] CHD3H
 - [ ] CHD3I
-- [ ] CHD3J
-- [ ] CHD3K
-- [ ] CHD4A
-- [ ] CHD4B
+- [x] CHD3J (cám ơn @huynd2001)
+- [x] CHD3K (cám ơn @huynd2001)
+- [x] CHD4A (cám ơn @huynd2001)
+- [x] CHD4B (cám ơn @huynd2001)
 - [x] CHD4C (cám ơn @huynd2001)
 - [x] CHD4D (cám ơn @huynd2001)
 - [x] CHD4E (cám ơn @huynd2001)
