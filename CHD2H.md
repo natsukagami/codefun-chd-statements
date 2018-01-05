@@ -2,7 +2,7 @@
 
 GodIsAGirl là 1 camper khá khủng của dự tuyển, vậy nên ai cũng muốn được chung team với anh. GodIsAGirl cũng rất hiếu thắng, anh muốn đảm bảo cho chiến thắng của mình trong mỗi ván đấu, nên đội của GodIsAGirl cũng được anh chọn lọc rất cẩn thận.
 
-Có N người muốn chơi chung team với GodIsAGirl(`0 < N < 1e5+1`). Mỗi người chơi có 1 chỉ số trình độ gọi là Ability. `Ability[i]` (`Ability[i] < 1e9+1`) biểu diễn trình độ bắn CS của người chơi thứ `i` (`0 < i < N+1`). GodIsAGirl muốn chọn càng nhiều người vào đội của mình càng tốt (quân số càng đông thì sự chú ý vào anh sẽ bị giảm, nhờ đó mà có thể ngồi camp ung dung hơn), nhưng người thứ `i` lại chỉ muốn chơi chung với người `i – 1` và người `i + 1`.
+Có N người muốn chơi chung team với GodIsAGirl(`0 < N < 1e5+1`). Mỗi người chơi có 1 chỉ số trình độ gọi là Ability. `Ability[i]` (`|Ability[i]| < 1e9+1`) biểu diễn trình độ bắn CS của người chơi thứ `i` (`0 < i < N+1`). GodIsAGirl muốn chọn càng nhiều người vào đội của mình càng tốt (quân số càng đông thì sự chú ý vào anh sẽ bị giảm, nhờ đó mà có thể ngồi camp ung dung hơn), nhưng người thứ `i` lại chỉ muốn chơi chung với người `i – 1` và người `i + 1`.
 
 Đương nhiên là GodIsAGirl không muốn gây bất hòa trong team của mình(lỡ mà bị spoil ra vị trí camp thì hỏng bét). Vậy nên GodIsAGirl sẽ chỉ lấy những người muốn chơi với nhau vào team của mình. (Lưu ý rằng người 1 chỉ muốn chơi với người 2 và người thứ `N` chỉ muốn chơi với người thứ `N-1`).
 
