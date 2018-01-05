@@ -28,7 +28,8 @@ In ra `Thanh` nếu Thanh thua, `Bach` nếu Bách thua.
 
 ### Input
 ```
-1 1 2
+1
+1 2
 ```
 
 ### Output
