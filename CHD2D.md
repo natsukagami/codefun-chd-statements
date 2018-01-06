@@ -8,7 +8,7 @@ Minhselentim thường đè thằng uống giọt cuối cùng trong `n` chai ra
 
 Độ ngon được định nghĩa là hàm lượng tối đa mà Bách hoặc Thanh có thể uống trong một ngụm (tại hai thằng chủ yếu uống để chọc tức Minhselentim là chính nên chúng sẵn sàng uống mấy thứ tởm tởm kiểu cà phê tăng lực chẳng hạn nhưng mà uống quá liều lượng này thì sẽ nôn ọe các thứ các thứ).
 
-Hai đứa sẽ lần lượt uống, mỗi lần người uống sẽ chọn chai `i` và nốc 1 lượng `k`(ml) (`0 < k ≤ A[i]`)(vì một lý do đặc biệt mà `k` luôn lẻ). Cho biết nếu cả hai cùng uống một cách tối ưu thì ai sẽ bị ….. và phải bỏ tiền ra mua nước trả Minhselentim. Thanh là người khát hơn nên Thanh luôn là người uống trước
+Hai đứa sẽ lần lượt uống, mỗi lần người uống sẽ chọn chai `i` và nốc 1 lượng `k`(ml) (`0 < k ≤ A[i]`)(vì một lý do đặc biệt mà `k` luôn lẻ). Cho biết nếu cả hai cùng uống một cách tối ưu thì ai sẽ bị … và phải bỏ tiền ra mua nước trả Minhselentim. Thanh là người khát hơn nên Thanh luôn là người uống trước
 
 ## Input
 
