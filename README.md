@@ -100,14 +100,14 @@ Fork về Github của bạn, chỉnh sửa hoặc thêm và thực hiện Pull 
 - [ ] CHD3F
 - [ ] CHD3G
 - [ ] CHD3H
-- [ ] CHD3I
-- [ ] CHD3J
-- [ ] CHD3K
-- [ ] CHD4A
-- [ ] CHD4B
-- [ ] CHD4C
-- [ ] CHD4D
-- [ ] CHD4E
+- [x] CHD3I (cám ơn @huynd2001)
+- [ ] CHD3J 
+- [x] CHD3K (cám ơn @huynd2001)
+- [x] CHD4A (cám ơn @huynd2001)
+- [x] CHD4B (cám ơn @huynd2001)
+- [x] CHD4C (cám ơn @huynd2001)
+- [x] CHD4D (cám ơn @huynd2001)
+- [x] CHD4E (cám ơn @huynd2001)
 - [x] CHD4F (cám ơn @huynd2001)
 - [x] CHD4G (cám ơn @huynd2001)
 - [x] CHD4H (cám ơn @huynd2001)
