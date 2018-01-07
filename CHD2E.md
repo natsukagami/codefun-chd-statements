@@ -4,7 +4,7 @@ Poiiiiiii là huấn luyện viên của một đội bóng tại xứ sở FIFA
 
 Trong FIFAONLINE 3 để tăng sức mạnh một cầu thủ các huấn luyện viên phải nâng cấp bằng cách mua 2 thẻ của một cầu thủ và kết hợp lại(gọi là ép thẻ). Nhưng việc ép này có một khả năng hỏng, hỏng xong thì huấn luyện viên mất cả 2 cầu thủ. Poiiiiiii ép thẻ theo một quy tắc mà Poiiiiiii cho là đem lại may mắn. Poiiiiiii có `n` cầu thủ Mờ-U và `m` cầu thủ Borussia Dortmund, được sắp xếp theo cấp thẻ tăng dần.
 
-> Mỗi cầu thủ Mờ-U hay Borussia Dortmund sẽ có vị trí trên sân(Thủ Môn, Hậu Vệ, Tiền Vệ, Tiền Đạo,.....), mỗi vị trí sẽ được gọi tắt bằng 1 chữ cái, các cầu thủ cùng vị trí sẽ có cùng chữ cái này. Quy tắc của Poiiiiiii phát biểu như sau:
+Mỗi cầu thủ Mờ-U hay Borussia Dortmund sẽ có vị trí trên sân(Thủ Môn, Hậu Vệ, Tiền Vệ, Tiền Đạo,.....), mỗi vị trí sẽ được gọi tắt bằng 1 chữ cái, các cầu thủ cùng vị trí sẽ có cùng chữ cái này. Quy tắc của Poiiiiiii phát biểu như sau:
 
 > Ở một thời điểm, Poiiiiiii sẽ lấy ra cầu thủ có cấp thẻ nhỏ nhất của 1 trong 2 đội và ép, vị trí của cầu thủ này sẽ được lưu lại vào 1 string. Poiiiiiii cho rằng nếu ép xong mà string này là palindrome thì Poiiiiiii sẽ gặp may mắn và ép tiếp Rooney mùa U10 và Van Der Sar E8.
 

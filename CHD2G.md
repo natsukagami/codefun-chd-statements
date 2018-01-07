@@ -4,7 +4,7 @@ Teeworlds là một game bắn nhau 2D nhiều người miễn phí nguồn mở
 
 Cứ bắt đầu trận thì anh sẽ ngồi một chỗ giữ súng và bắn lén rất khó chịu.Ván teeworlds hôm nay có dạng là các cột liên tiếp với độ cao khác nhau. Trong ván này thì Yutaka1999 đang đứng trên một vị trí “tổ chim”. Nghĩa là một vị trí cao, bao quát mọi hướng.
 
-Yutaka1999 đang đứng tại một đài cao ở vị trí (`0, x`) còn mọi người đều đứng ở các vị trí có hoành độ dương, ở mỗi vị trí sẽ có độ cao riêng là `h[i]` (`h[i]<=x`). Yutaka1999 đang có một khẩu laze, với tầm bắn vô hạn chỉ dừng lại khi gặp vật cản là một người chơi hoặc đia hình. Hỏi nếu mọi người đều đứng yên thì sẽ có bao nhiêu người bị Yutaka1999 bắn, biết các cột không có người luôn cao 0.
+Yutaka1999 đang đứng tại một đài cao ở vị trí `(0, x)` còn mọi người đều đứng ở các vị trí có hoành độ dương, ở mỗi vị trí sẽ có độ cao riêng là `h[i]` (`h[i]<=x`). Yutaka1999 đang có một khẩu laze, với tầm bắn vô hạn chỉ dừng lại khi gặp vật cản là một người chơi hoặc đia hình. Hỏi nếu mọi người đều đứng yên thì sẽ có bao nhiêu người bị Yutaka1999 bắn, biết các cột không có người luôn cao 0.
 
 ## Input
 
