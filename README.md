@@ -94,7 +94,7 @@ Fork về Github của bạn, chỉnh sửa hoặc thêm và thực hiện Pull 
 - [x] CHD2K (cám ơn @duongoku)
 - [x] CHD3A (cám ơn @duongoku)
 - [x] CHD3B (cám ơn @duongoku)
-- [ ] CHD3C
+- [x] CHD3C (cám ơn @duongoku)
 - [ ] CHD3D
 - [ ] CHD3E
 - [ ] CHD3F
