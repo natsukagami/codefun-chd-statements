@@ -92,12 +92,12 @@ Fork về Github của bạn, chỉnh sửa hoặc thêm và thực hiện Pull 
 - [x] CHD2I (cám ơn @duongoku)
 - [x] CHD2J (cám ơn @duongoku)
 - [x] CHD2K (cám ơn @duongoku)
-- [ ] CHD3A
-- [ ] CHD3B
-- [ ] CHD3C
-- [ ] CHD3D
-- [ ] CHD3E
-- [ ] CHD3F
+- [x] CHD3A (cám ơn @duongoku)
+- [x] CHD3B (cám ơn @duongoku)
+- [x] CHD3C (cám ơn @duongoku)
+- [x] CHD3D (cám ơn @duongoku)
+- [x] CHD3E (cám ơn @duongoku)
+- [x] CHD3F (cám ơn @duongoku)
 - [ ] CHD3G
 - [ ] CHD3H
 - [x] CHD3I (cám ơn @huynd2001)
