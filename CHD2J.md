@@ -4,7 +4,12 @@
 
 Công pháp Nhất Dương Chỉ chia làm thượng tầng và hạ tầng. Ở thượng tầng, phải luyện được công phu dùng ngón tay chọc xuyên ghế sắt, sau đó bình yên quay tay và kéo ra.
 
-Mùa đông sắp tới, Đắc Dùng Tương quyết định bán găng tay cho những kẻ luyện thần công Nhất Dương Chỉ. Gã mang về một số đôi găng tay nhét vào bao tải: `X` chiếc găng tay màu đen, `Y` chiếc màu nâu, và `Z` chiếc màu xám. Bạn chọn găng tay trong bóng tối và có thể kiểm tra chúng chỉ sau một lần chọn, và mỗi lần bạn lấy ra một chiếc găng tay. Số lần lấy nhỏ nhất bạn cần là bao nhiêu để đảm bảo được 1 trong 2 điều kiện sau đây: A. Ít nhất một đôi cùng màu B. Mỗi màu ít nhất có một đôi cùng màu đó.
+Mùa đông sắp tới, Đắc Dùng Tương quyết định bán găng tay cho những kẻ luyện thần công Nhất Dương Chỉ. Gã mang về một số đôi găng tay nhét vào bao tải: `X` chiếc găng tay màu đen, `Y` chiếc màu nâu, và `Z` chiếc màu xám. Bạn chọn găng tay trong bóng tối và có thể kiểm tra chúng chỉ sau một lần chọn, và mỗi lần bạn lấy ra một chiếc găng tay.
+
+Số lần lấy nhỏ nhất bạn cần là bao nhiêu để đảm bảo được 1 trong 2 điều kiện sau đây:
+
+ - A. Ít nhất một đôi cùng màu.
+ - B. Mỗi màu ít nhất có một đôi cùng màu đó.
 
 ## Input
 
