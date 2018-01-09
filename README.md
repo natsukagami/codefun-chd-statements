@@ -1,6 +1,8 @@
 # codefun-chd-statements
 An attempt to re-format codefun's `Cúp Huynh Đệ` statements to a more friendly GFM format.
 
+**Công trình đã hoàn thành, cám ơn 2 bạn @duongoku và @huynd2001!**
+
 ## Quy tắc format
 
 Về cơ bản, ta sẽ dùng chính xác những gì ta có của [Github Flavored Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
