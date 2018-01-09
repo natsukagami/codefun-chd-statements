@@ -18,9 +18,9 @@ Input gồm nhiều test, mỗi test gồm 1 số `N` (`1 ≤ N ≤ 10^9`) ghi t
 
 Với mỗi test in trên 1 dòng:
 
- - `A` (A nh Duy) nếu anh Duy có chiến thuật thắng.
- - `B` (B ọn còn lại) nếu Khang / Thanh / Kiều Quốc Đạt có chiến thuật thắng.
- - `C` (C ông bằng) nếu số sỏi anh Duy chọn là công bằng cho đôi bên.
+ - `A` (**A**nh Duy) nếu anh Duy có chiến thuật thắng.
+ - `B` (**B**ọn còn lại) nếu Khang / Thanh / Kiều Quốc Đạt có chiến thuật thắng.
+ - `C` (**C**ông bằng) nếu số sỏi anh Duy chọn là công bằng cho đôi bên.
 
 ## Sample
 
